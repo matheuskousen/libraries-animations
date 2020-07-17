@@ -1,0 +1,49 @@
+# LIBS TO ANIMATION 
+
+#  animejs
+$ npm install animejs --save
+anime.js • JavaScript animation engine
+´
+
+```Link:
+https://animejs.com/
+```
+# GSAP - GreenSock
+GSAP is a property manipulator.
+```Link:
+With bonus plugins: Download the bonus ZIP above. Then, in the "npm-install-this" folder you'll find a gsap-bonus.tgz tarball file. Drop that into your project directory, navigate there with your console and then simply:
+npm install ./gsap-bonus.tgz
+Or with yarn:
+yarn add ./gsap-bonus.tgz
+Without bonus plugins:
+npm install gsap
+Or with yarn:
+yarn add gsap
+
+GSAP - GreenSockgreensock.com
+
+
+
+```
+# Rellax 
+npm install rellax --save
+Vanilla Javascript Parallax Library — Rellax - Dixon & Moe
+
+```Link:
+
+
+
+
+https://dixonandmoe.com/rellax/
+```
+
+# Splitting
+Splitting creates elements and adds CSS variables to unlock amazing possibilities for animating text, grids, and more!
+
+```Link:
+
+https://splitting.js.org/
+```
+
+
+    "splitting": "^1.0.6"
